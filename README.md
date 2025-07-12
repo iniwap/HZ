@@ -1,13 +1,30 @@
 # 项目背景
 多年前用unity开发的两个app（同一套源码），现在开源出来，有兴趣的朋友可以随便玩耍。这个数据库还是有点价值的，特别是谜语部分，我收集整理了很久。关于汉字拆解，更是研究了很长时间。
 
+## App下载体验
+
+- **App Store**: [汉字](https://apps.apple.com/cn/app/%E6%B1%89%E5%AD%97/id1450896243)
+
+> **汉字，承载千年文化；一划一猜，点亮智慧火花。**
+
+- **App Store**: [成语迷](https://apps.apple.com/cn/app/%E6%88%90%E8%AF%AD%E8%BF%B7/id1469655291)
+
+> **成语千载，智慧传承；一划一猜，文化生辉。**
+
 ## HZ（汉字）
 
 > **寓教于乐，探索汉字之美**
 
 “汉字”是一款以中华汉字文化为核心的移动应用，融合学习、探索与解谜的创新体验，让用户在轻松的游戏化交互中深入了解汉字的构造、含义与文化内涵。覆盖近9000个汉字，搭配丰富的功能模块，无论是汉字爱好者还是文化探索者，都能在这款应用中找到乐趣与启发。
 
-![APP预览](AppPreview/hz_1.jpg)![APP预览](AppPreview/hz_1.jpg)![APP预览](AppPreview/hz_3.jpg)![APP预览](AppPreview/hz_4.jpg)![APP预览](AppPreview/hz_5.jpg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="AppPreview/hz_1.jpg" width="18%">
+  <img src="AppPreview/hz_2.jpg" width="18%">
+  <img src="AppPreview/hz_3.jpg" width="18%">
+  <img src="AppPreview/hz_4.jpg" width="18%">
+  <img src="AppPreview/hz_5.jpg" width="18%">
+</div>
+
 
 ### 设计初衷
 
@@ -51,7 +68,13 @@
 
 “成语迷”是一款专注于成语学习的移动应用，以简洁优雅的设计和寓教于乐的玩法，帮助用户快速掌握成语、加深文化记忆。无论是提升语言表达能力，还是感受中华传统文化的魅力，这款应用都将是你的理想选择。
 
-![APP预览](AppPreview/cy_1.jpg)![APP预览](AppPreview/cy_2.jpg)![APP预览](AppPreview/cy_3.jpg)![APP预览](AppPreview/cy_4.jpg)![APP预览](AppPreview/cy_5.jpg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="AppPreview/cy_1.jpg" width="18%">
+  <img src="AppPreview/cy_2.jpg" width="18%">
+  <img src="AppPreview/cy_3.jpg" width="18%">
+  <img src="AppPreview/cy_4.jpg" width="18%">
+  <img src="AppPreview/cy_5.jpg" width="18%">
+</div>
 
 ### 设计初衷
 
@@ -77,13 +100,3 @@
 - 考察中华文化知识，寓教于乐。
 - 动态排行榜，争夺成语大师称号。
 
-
-## App下载体验
-
-- **App Store**: [汉字](https://apps.apple.com/cn/app/%E6%B1%89%E5%AD%97/id1450896243)
-
-> **汉字，承载千年文化；一划一猜，点亮智慧火花。**
-
-- **App Store**: [成语迷](https://apps.apple.com/cn/app/%E6%88%90%E8%AF%AD%E8%BF%B7/id1469655291)
-
-> **成语千载，智慧传承；一划一猜，文化生辉。**
